@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> Hello, I'm SeongHan😊</h1>  
+  <h1> Hello, I'm SeongHan😊</h1>    
+    <img align="center" src="https://github.com/JeongSunghan/JeongSunghan/assets/155530452/30c3731d-4b91-43ad-a98f-561c72f373ed" alt="My Custom Image 2" width="250" height="200" />  
 </div>
 
 <div align="center">
