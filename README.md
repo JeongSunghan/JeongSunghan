@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello! I'm SeongHan 🐣</h1>  
+  <h1> Hello, I'm SeongHan😊</h1>  
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Back-end Stack 🛠️</h2>
+  <h2>⚙️ Back-end Stack ⚙️</h2>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Other Tools 🛠️</h2>
+  <h2>🔗 Other Tools 🔗</h2>
   <p>
     <img src="https://img.shields.io/badge/GitHubDesktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
