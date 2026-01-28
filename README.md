@@ -25,7 +25,7 @@
 ```javascript
 const SeongHan = {
     role: "Full-Stack Developer",
-    location: "Seoul, South Korea 🇰🇷",
+    location: "Suwon, South Korea 🇰🇷",
     currentFocus: ["React Ecosystem", "Spring Boot", "Cloud Architecture"],
     passion: "Building tools that make developers' lives easier",
     funFact: "I believe clean code is a form of art 🎨"
